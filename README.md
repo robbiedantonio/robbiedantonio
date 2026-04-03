@@ -2,7 +2,6 @@
 ---
 ### About me
 I'm a computer engineer based in Boston, Massachusetts, USA🇺🇸
-
 <h3>Some stuff I use:</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=c&logoColor=white" />
@@ -15,15 +14,23 @@ I'm a computer engineer based in Boston, Massachusetts, USA🇺🇸
   <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-30a8ff?style=flat-square&logo=wireshark&logoColor=white" />
 </p>
 
+---
+
+### 🐦 Flappy Bird
+
+Bored? Take a break and play some Flappy Bird!
+
+<a href="https://robbiedantonio.github.io/robbiedantonio/flappy-bird.html">
+  <img src="https://img.shields.io/badge/🎮_Play_Flappy_Bird-238636?style=for-the-badge&logoColor=white" alt="Play Flappy Bird" />
+</a>
+
 <!--
 **robbiedantonio/robbiedantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
