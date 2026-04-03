@@ -20,7 +20,7 @@ I'm a computer engineer based in Boston, Massachusetts, USA🇺🇸
 
 Bored? Take a break and play some Flappy Bird!
 
-<a href="https://robbiedantonio.github.io/robbiedantonio/flappy-bird.html">
+<a href="https://github.com/robbiedantonio/robbiedantonio/blob/main/flappy-bird.html">
   <img src="https://img.shields.io/badge/🎮_Play_Flappy_Bird-238636?style=for-the-badge&logoColor=white" alt="Play Flappy Bird" />
 </a>
 
