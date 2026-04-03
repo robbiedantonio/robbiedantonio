@@ -1,7 +1,7 @@
 <img src="https://media4.giphy.com/media/7VDQVy5wrNef9zOTqY/giphy.gif?cid=6c09b952m8oexf0b59lwgadbb8ju5pp32zp3zh6jq2kswa4y&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="45" height="45" /> Hi there, I'm Robbie D'Antonio
 ---
 ### About me
-I'm a computer engineer based in Boston, Massachusetts, USA🇺🇸, and a May 2024 graduate from Boston University🎓
+I'm a computer engineer based in Boston, Massachusetts, USA🇺🇸
 
 <h3>Some stuff I use:</h3>
 <p>
